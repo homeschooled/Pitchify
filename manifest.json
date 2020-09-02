@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Pitchify",
-  "version": "1.0",
+  "version": "1.b0",
 
 "background": {
   "scripts": ["background.js"]
@@ -24,6 +24,6 @@
  
  	 "permissions": [
     "tabs",
-    "*://*/*"
+    "https://www.youtube.com/*"
   ]
 }
